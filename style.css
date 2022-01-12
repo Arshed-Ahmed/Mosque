@@ -1,0 +1,98 @@
+.cinzel {
+  font-family: "Cinzel Decorative", cursive;
+}
+.roboto {
+  font-family: "Roboto Slab", serif;
+}
+.b-400 {
+  font-weight: 400;
+}
+.b-500 {
+  font-weight: 500;
+}
+.b-700 {
+  font-weight: 700;
+}
+.b-900 {
+  font-weight: 900;
+}
+.f-22 {
+  font-size: 22px;
+}
+.f-35 {
+  font-size: 35px;
+}
+.f-42 {
+  font-size: 42px;
+}
+.form-check-input:checked {
+  background-color: #db9e30 !important;
+}
+#terms:checked {
+  background-color: #db9e30 !important;
+}
+.carousel {
+  margin-top: -150px;
+}
+.caption-header {
+  font-family: "Cinzel Decorative", cursive;
+  font-size: 55px;
+  letter-spacing: 5px;
+  font-weight: 900;
+}
+.grey {
+  color: #a0a0a0;
+}
+.dark-grey {
+  color: #686868;
+}
+.maroon {
+  color: rgb(71, 39, 39);
+}
+.brown-orange {
+  color: #db9e30;
+}
+footer {
+  background-image: radial-gradient(
+      circle at top right,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 1.5)
+    ),
+    url("assets/footer-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+footer a {
+  color: #818181;
+}
+.border-top {
+  border-top: 1px solid #3c4440 !important;
+}
+
+/* prayer times */
+.MPwidget {
+  margin: auto !important;
+}
+.MPheader {
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  font-family: "Cinzel Decorative", cursive !important;
+}
+.MPtimetable {
+  font-family: "Roboto Slab", serif !important;
+}
+.prayertime-next-div {
+  background-image: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0.9),
+      rgba(255, 255, 255, 0.7)
+    ),
+    url("assets/footer-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 3rem;
+}
