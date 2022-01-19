@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row justify-content-center py-5">
             <div class="col">
-                <h4 class="brown-orange text-center"> الله </h4>
+                <h4 class="brown-orange text-center notranslate"> الله </h4>
                 <p class="f-42 b-700 cinzel text-center">Newsletter</p>
                 <p class="b-400 grey text-center">Subscribe our mailing list</p>
                 <div class="col-lg-7 col-md-7 col-sm-12 m-auto">
